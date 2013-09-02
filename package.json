@@ -1,0 +1,14 @@
+{
+  "name": "derconf",
+  "version": "0.0.1",
+  "description": "Simple environment aware config loader",
+  "keywords": [
+    "config",
+    "configuration",
+    "loader",
+    "environment aware"
+  ],
+  "dependencies": {
+    "underscore": "~1.5.1"
+  }
+}
