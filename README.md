@@ -1,6 +1,8 @@
 derconf
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kiernanmcgowan/derconf.svg)](https://greenkeeper.io/)
+
 `The config!`
 
 Simple config loader for node. `Derconf` will search a number of directories and return one JSON object that is a combination of all of them.
