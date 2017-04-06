@@ -9,6 +9,6 @@
     "environment aware"
   ],
   "dependencies": {
-    "underscore": "~1.5.1"
+    "underscore": "~1.8.3"
   }
 }
